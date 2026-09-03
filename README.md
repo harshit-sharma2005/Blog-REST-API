@@ -153,10 +153,4 @@ Test the endpoints with **Postman** or any REST client of your choice.
 - Structuring a multi-module Spring Boot project with clean separation between controllers, services, and repositories
 - Containerizing a Spring Boot + MySQL app with Docker Compose
 
-## Acknowledgements
 
-This project's API design was built while studying the architecture of [osopromadze/Spring-Boot-Blog-REST-API](https://github.com/osopromadze/Spring-Boot-Blog-REST-API) as a learning reference.
-
-## License
-
-This project is licensed under the AGPL-3.0 License — see the [LICENSE](LICENSE) file for details.
